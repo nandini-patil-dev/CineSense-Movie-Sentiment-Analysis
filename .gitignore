@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+venv312/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Dataset - download separately
+data/*.csv
